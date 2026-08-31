@@ -60,3 +60,66 @@ CTEs & Window Functions
 Ranking & Advanced Metrics
      ↓
 Analytical Insights
+```
+# 📚 Learning Outcomes
+
+Through this project, the following practical capabilities were developed:
+
+- Structuring analytical questions from raw data.
+- Writing progressively complex SQL queries.
+- Transforming raw statistical records into aggregated metrics.
+- Comparing player and team performance.
+- Using CTEs to improve query organization and readability.
+- Applying Window Functions for ranking and comparative analysis.
+- Calculating performance ratios and analytical metrics.
+- Organizing a professional SQL portfolio project on GitHub.
+
+---
+
+# 🔮 Future Enhancements
+
+Potential future enhancements include:
+
+- Interactive dashboards using **Power BI**.
+- Data visualization using **Tableau**.
+- Python-based exploratory data analysis.
+- Season-over-season comparisons.
+- Advanced player performance metrics.
+- Team comparison dashboards.
+- Automated data pipelines.
+- Predictive analytics using machine learning techniques.
+
+---
+
+# 👨‍💻 About the Author
+
+## MD Nur Hossain Joy
+
+🎓 **MBA, Institute of Business Administration (IBA)**  
+🏛️ **University of Rajshahi**
+
+### 💼 Professional Background
+
+- Former Finance Executive — MetLife Bangladesh
+- Former Accounts & Finance Executive — IFAD Motors
+
+### 📊 Professional Development Focus
+
+Currently focused on developing practical expertise in:
+
+- SQL
+- PostgreSQL
+- Data Analysis
+- Data Analytics
+
+With a professional background in **Finance and Accounts**, I am expanding my technical capabilities in data analysis and database technologies, with a particular focus on applying SQL to real-world datasets and analytical problem-solving.
+
+This project is part of my broader professional development journey toward building practical expertise in **data analytics, SQL-based analysis, and data-driven decision-making**.
+
+---
+
+# 📬 Connect
+
+- 💻 **GitHub:** [github.com/nurhossainjoy](https://github.com/nurhossainjoy)
+
+---
