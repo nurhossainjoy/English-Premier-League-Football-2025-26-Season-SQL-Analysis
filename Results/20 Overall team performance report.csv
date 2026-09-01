@@ -1,0 +1,21 @@
+"team","total_goals","total_assists","total_shots","total_shots_on_target","total_yellow_cards","total_red_cards","total_fouls_committed","goal_conversion_rate"
+"Manchester City",74,57,595,205,67,0,367,0.124
+"Arsenal",67,51,552,186,51,0,391,0.121
+"Manchester United",66,46,595,215,64,3,390,0.111
+"Liverpool",61,44,588,175,57,1,384,0.104
+"Chelsea",57,39,509,166,98,8,419,0.112
+"Bournemouth",57,35,526,178,88,2,458,0.108
+"Brentford",53,33,405,147,69,1,390,0.131
+"Aston Villa",53,40,483,170,58,1,379,0.110
+"Newcastle United",53,32,492,176,67,3,385,0.108
+"Brighton & Hove Albion",51,33,494,176,86,0,453,0.103
+"Leeds United",48,24,477,151,64,1,398,0.101
+"Tottenham Hotspur",47,36,435,146,101,4,462,0.108
+"Nottingham Forest",47,34,476,156,60,1,406,0.099
+"Everton",45,34,422,142,74,4,409,0.107
+"West Ham United",44,31,404,142,69,3,421,0.109
+"Fulham",43,26,481,138,75,1,414,0.089
+"Crystal Palace",40,23,442,141,76,2,398,0.090
+"Sunderland",38,25,396,130,82,3,407,0.096
+"Burnley",35,27,355,118,65,3,392,0.099
+"Wolverhampton Wanderers",26,18,369,123,80,3,494,0.070
