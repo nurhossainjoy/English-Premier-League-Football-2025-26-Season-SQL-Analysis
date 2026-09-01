@@ -1,4 +1,4 @@
-# ⚽ EPL SQL Data Analysis
+# ⚽ English Premier League Football 2025-26 Season SQL Analysis
 ![Premier League_Photo](https://github.com/nurhossainjoy/English-Premier-League-Football-2025-26-Season-SQL-Analysis/blob/main/Photos/blt9f60f33d463aa9b3.webp)
 ### English Premier League Player & Match Statistics Analysis Using PostgreSQL
 
